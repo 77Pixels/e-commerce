@@ -1,0 +1,12 @@
+# common
+.DS_Store
+Thumbs.db
+/ui/.angular/cache
+.vscode/
+
+# UI
+ui/dist
+ui/node_modules
+
+# API
+api/node_modules
