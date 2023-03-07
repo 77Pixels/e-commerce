@@ -1,0 +1,7 @@
+{
+    "PORT": 5500,
+    "info": {
+        "service_name": "E-Commerce",
+        "version": "1.0.0.0"
+    }
+}

@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    padding: 0;
+    margin:0;
+}
+
+:root {
+    --nav-height: 50px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    height: calc(100vh - var(--nav-height));
+    position: relative;
+}

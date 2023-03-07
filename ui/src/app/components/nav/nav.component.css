@@ -1,0 +1,19 @@
+nav {
+    width: 100%;
+    height: var(--nav-height);
+    background-color: #2196F3;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0px 2px;
+    box-sizing: border-box;
+}
+
+nav a {
+    color: #FFFFFF;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #FFFFFF40;
+    margin: 0px 2px;
+    border-radius: 5px;
+}
